@@ -14,7 +14,9 @@ public class APlusBFormat {
 		 * public class Main { public static void
 		 * 	main(String[] args){
 		 *  输入输出用system.in和system.out
+		 *  
 		 * }
+		 * 唉
 		 */
 		stringCorrect();
 
