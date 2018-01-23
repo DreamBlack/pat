@@ -18,6 +18,7 @@ public class InputAndOutput {
 		Scanner sc = new Scanner("-10999999 200");
 		int a = sc.nextInt();
 		int b = sc.nextInt();
+		
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
