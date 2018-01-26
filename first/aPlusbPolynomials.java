@@ -47,6 +47,7 @@ public class aPlusbPolynomials {
 				}
 			}
 		}
+		sc.close();
 		System.out.print(k);
 		for (int m = 1000; m >= 0; m--) {
 			if (a[m] != 0) {
@@ -74,7 +75,7 @@ public class aPlusbPolynomials {
 		while (j < lengthb) {
 			b[j++] = sc.nextFloat();
 		}
-
+		sc.close();
 		double[] result = new double[lengtha + lengthb];
 		i = 0;
 		j = 0;
