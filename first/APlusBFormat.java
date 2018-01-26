@@ -26,7 +26,7 @@ public class APlusBFormat {
 		Scanner sc = new Scanner("-10999999 200");
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-		sc.close();
+		sc.close(); //
 		int sum = a + b;
 		if (sum < 1000 && sum > -1000) {
 			System.out.print(sum);
