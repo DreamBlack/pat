@@ -25,6 +25,7 @@ public class CountLeaves {
 			}
 
 		}
+		sc.close();
 
 		int[] leaves = new int[100];
 		int level = 0;
